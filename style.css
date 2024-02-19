@@ -1,9 +1,9 @@
 .time {
-  font-family: "Arial black";
+  font-family: HiraKakuProN-W3;
   font-size: 100px;
 }
 .kome {
-  font-family: "Arial black";
+  font-family: HiraKakuProN-W3;
   font-size: 30px;
 }
 
@@ -14,7 +14,7 @@
         position: relative;
       }
       .container img{
-        width:120%;
+        width:100%;
       }
       p{
         position: absolute;
@@ -34,7 +34,7 @@
         position: relative;
       }
       .container2 img{
-        width:120%;
+        width:100%;
       }
       p2{
         position: absolute;
