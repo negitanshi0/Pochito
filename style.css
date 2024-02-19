@@ -18,7 +18,7 @@
       }
       p{
         position: absolute;
-        top:250px;
+        top:200px;
         left:300px;
         font-size:250px;
         color: white;
@@ -49,7 +49,7 @@
 
 .class2{
         margin: 50px;
-        width: 2000px;
-        height: 50px;
+        width: 1200px;
+        height: 200px;
         display: block;
       }
