@@ -1,10 +1,12 @@
 .time {
 　　margin: auto;
+　　position: relative;
   font-family: HiraKakuProN-W3;
   font-size: 110px;
 }
 .kome {
 　　margin: auto;
+　　position: relative;
   font-family: HiraKakuProN-W3;
   font-size: 40px;
 }
