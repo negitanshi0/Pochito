@@ -59,3 +59,34 @@
         height: 250px;
         display: block;
       }
+.header {
+  width: 100%;
+  height: 120px;
+}
+
+.contents3 {
+  height: 2000px;
+  width: 100%;
+  background: linear-gradient(118deg, rgba(255,201,114,1) 0%, rgba(246,179,84,1) 40%, rgba(231,229,97,1) 100%);
+	}
+
+.img-wrap {
+  z-index: 100;
+  position: fixed;
+  left: 0; /* 画面左端に固定 */
+  bottom: 0; /* 画面下に固定 */
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #fff;
+	}
+
+.fixedImage {
+  width: 100%;
+  max-width: 280px;
+  height: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+	}
+}
